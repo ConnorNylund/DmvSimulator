@@ -12,7 +12,7 @@ public class DmvSimulator {
         int currentNumber = userNumber + 1;
 
         while (true) {
-            if (currentNumber == 100)
+            if (currentNumber == 200)
                 currentNumber = 0;
             System.out.println("Now serving number " + currentNumber);
             if (currentNumber == userNumber)
