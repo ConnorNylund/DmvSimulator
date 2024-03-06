@@ -29,5 +29,6 @@ public class DmvSimulator {
                 System.out.println("Are you so incompetent to not have the required paperwork?! Why can't people just bring what is required!?");
             }
         }
+        System.out.println("Your number " + userNumber + " is now being served.");
     }
 }
