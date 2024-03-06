@@ -14,7 +14,7 @@ public class DmvSimulator {
         while (true) {
             if (currentNumber == 200)
                 currentNumber = 0;
-            System.out.println("Now serving number " + currentNumber);
+            System.out.println("Now serving number: " + currentNumber);
             if (currentNumber == userNumber)
                 break;
             currentNumber++;
