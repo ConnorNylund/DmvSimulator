@@ -20,6 +20,6 @@ public class DmvSimulator {
             currentNumber++;
         }
         System.out.println("Your number " + userNumber + " is now being served.");
-        System.out.println("Are you so incompetend to not have the required paperwork?! Why can't people just bring what is required!?");
+        System.out.println("Are you so incompetend to not have the required paperwork?! Why can't people just bring what is required!? You will not be leaving anytime soon MWAH HAH HA HAAA!!!");
     }
 }
