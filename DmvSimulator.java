@@ -23,7 +23,7 @@ public class DmvSimulator {
                 System.out.println("You have all the required paperwork and are all set.");
                 break;
             } else if (chance > 0 && chance <= 98) { 
-                System.out.println("Are you so incompetent to not have the required paperwork?!! Why can't people just bring what is required!?");
+                System.out.println("Are you so incompetent to not have the required paperwork?!! Why can't people just bring what is required!!?");
             }
         }
         System.out.println("Your number " + userNumber + " is now being served.");
